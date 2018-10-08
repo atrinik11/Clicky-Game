@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Poison-Ivy",
+    "image": "http://vignette3.wikia.nocookie.net/dc-superherogirls/images/3/36/Poison_Ivy.png/revision/latest?cb=20151129050943"
+  },
+  {
+    "id": 2,
+    "name": "Supergirl",
+    "image": "https://2.bp.blogspot.com/-J1EQkydfTYI/V0XyDLxG2KI/AAAAAAAAG90/KaCbks0rEY4RX3oCDwFt0sF3mOtqLVfKwCLcB/s1600/profile-supergirl_tcm1261-240942.png"
+  },
+  {
+    "id": 3,
+    "name": "Harley-Quinn",
+    "image": "https://vignette4.wikia.nocookie.net/dc-superherogirls/images/3/3f/Harley_Quinn.png/revision/latest?cb=20151129050740"
+  },
+  {
+    "id": 4,
+    "name": "Batgirl",
+    "image": "http://vignette1.wikia.nocookie.net/p__/images/d/d2/Batgirl.png/revision/latest?cb=20160314204432&path-prefix=protagonist"
+  },
+  {
+    "id": 5,
+    "name": "Wonder Woman",
+    "image": "http://vignette4.wikia.nocookie.net/p__/images/8/89/Wonder_Woman_%28DC_Super_Hero_Girls%29.png/revision/latest?cb=20160314203149&path-prefix=protagonist"
+  },
+  {
+    "id": 6,
+    "name": "Star Sapphire",
+    "image": "https://www.dckids.com/Portals/2/Content/Character/StarSapphire2/Source/Default/FullStarsapphire.png"
+  },
+  {
+    "id": 7,
+    "name": "Cheetah",
+    "image": "http://vignette2.wikia.nocookie.net/dcsuperherogirls/images/b/b4/Cheetahpng.png/revision/latest?cb=20160810124151&path-prefix=pt-br"
+  },
+  {
+    "id": 8,
+    "name": "Lady Shiva",
+    "image": "https://vignette2.wikia.nocookie.net/dcsuperherogirls/images/9/9a/LadyShiva_IncompleteRender.png/revision/latest?cb=20161105011921&path-prefix=pt-br"
+  },
+  {
+    "id": 9,
+    "name": "Starfire",
+    "image": "https://1.bp.blogspot.com/-6JytT31B4KY/WK8nTYDVUMI/AAAAAAAA9Mg/rhuHRAPLMo4hJhsyeslYQ3sRg8qy7dIMACEw/s1600/tumblr_olk5ldeuvr1rosg0bo1_500.png"
+  },
+  {
+    "id": 10,
+    "name": "Bumble Bee",
+    "image": "http://vignette4.wikia.nocookie.net/dc-superherogirls/images/9/90/Bumblebee.png/revision/latest?cb=20151129050844"
+  },
+  {
+    "id": 11,
+    "name": "Katana",
+    "image": "https://vignette2.wikia.nocookie.net/p__/images/e/e9/Katana.png/revision/latest?cb=20160315163147&path-prefix=protagonist"
+  },
+  {
+    "id": 12,
+    "name": "Harley-Quinn",
+    "image": "https://stage.dckids.com/Portals/2/Content/Hero/DCSHG_Characters_Hero/Source/Default/CharactersCharacter.png"
+  }
+]

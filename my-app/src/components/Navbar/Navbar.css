@@ -1,0 +1,50 @@
+nav {
+  top: 0;
+  width: 100%;
+  font-size: 25px;
+  height: 110px;
+  background-color: rgb(243, 135, 207);
+  color: rgba(44, 4, 138, 0.85);
+  box-shadow: 2px 3px 5px rgba(69, 69, 69, 0.5);
+  overflow: auto;
+}
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+nav ul li {
+  float: left;
+  margin: 2px;
+  padding: 5px;
+  width: 25%;
+  text-align: left;
+}
+#date {
+  display: none;
+}
+
+@media (min-width: 700px) {
+  nav {
+    font-size: 30px;
+    height: 125px;
+  }
+  nav ul li {
+    margin: 5px;
+    padding: 10px;
+    width: 20%;
+  }
+}
+@media (min-width: 850px) {
+  nav {
+    font-size: 35px;
+    height: 120px;
+  }
+  nav ul li {
+    margin: 10px;
+    padding: 12px;
+    width: 20%;
+  }
+  #date {
+    display: block;
+  }
+}

@@ -1,0 +1,37 @@
+.title {
+  top: 0;
+  /* position: absolute; */
+  text-align: center;
+  color: rgb(243, 135, 207);
+  background-color: rgba(44, 4, 138, 0.85);
+  overflow: auto;
+}
+.title h1 {
+  padding-top: 10px;
+  font-size: 30px;
+}
+.title p {
+  font-size: 20px;
+  padding: 10px;
+}
+
+@media (min-width: 700px) {
+  .title h1 {
+    padding-top: 15px;
+    font-size: 35px;
+  }
+  .title p {
+    font-size: 25px;
+    padding: 15px;
+  }
+}
+@media (min-width: 850px) {
+  .title h1 {
+    padding-top: 20px;
+    font-size: 40px;
+  }
+  .title p {
+    font-size: 30px;
+    padding: 20px;
+  }
+}
