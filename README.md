@@ -9,7 +9,7 @@ Create a memory game with React.
 
 ###### BootStrap, CSS, React js.
 
-![Game Image](/src/images/Memory-Game.png)
+![Game Image](/my-app/src/images/Memory-Game.png)
 
 ### Deploy Link:
 
